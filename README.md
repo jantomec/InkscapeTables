@@ -10,6 +10,12 @@ This is a small extension which generates an empty table within Inkscape.
 2. Click the arrow button to download the extension as a zip.
 3. Unarchive and copy `tables.inx` and `tables.py` to the Inkscape extensions folder. On Windows, this is usually located at `C:\Program Files\Inkscape\share\inkscape\extensions`.
 
+### Using GitHub
+
+1. Go to the [latest release](https://github.com/jantomec/InkscapeTables/releases/latest).
+2. Download `tables.zip`.
+3. Unarchive and copy `tables.inx` and `tables.py` to the Inkscape extensions folder. On Windows, this is usually located at `C:\Program Files\Inkscape\share\inkscape\extensions`.
+
 ## Publishing
 
 The process is very simple.
