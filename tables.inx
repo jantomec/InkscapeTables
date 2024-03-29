@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<inkscape-extension xmlns="http://www.inkscape.org/namespace/inkscape/extension">
+    <name>Tables</name>
+    <id>org.inkscape.extension.tables</id>
+    <param name="columns" type="int" min="1" max="100" gui-text="Columns:">4</param>
+    <param name="rows" type="int" min="1" max="100" gui-text="Rows:">4</param>
+    <effect>
+        <object-type>all</object-type>
+    </effect>
+    <script>
+        <command location="inx" interpreter="python">tables.py</command>
+    </script>
+</inkscape-extension>
